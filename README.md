@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Suhasini.I am interested in all things python and AI.
 - 🔭 I’m currently working on: Single Household Energy Usage Forecasting
 - 🌱 I’m currently learning: Time series and project deployment
 
