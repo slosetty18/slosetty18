@@ -15,7 +15,7 @@ End-to-end object detection pipeline trained on the Waymo Open Dataset.
 - **Deployed:** Live REST API on Google Cloud Run · Ultralytics HUB demo
 - **Stack:** Python · YOLOv8 · RF-DETR · FastAPI · Docker · Google Cloud Run · GCS
 
-### ⚡ [Household Energy Cost Forecasting](https://github.com/slosetty18/household-energy-forecasting)
+### ⚡ [Household Energy Cost Forecasting](https://github.com/slosetty18/SingleHousehold-Energy-Cost-Forecasting)
 Next-day electricity cost forecasting using 3 years of personal SRP utility data.
 
 - **Model:** SARIMAX(1,1,1)(1,0,1,7) with domain-engineered features
