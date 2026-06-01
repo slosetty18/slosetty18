@@ -11,7 +11,7 @@ building end-to-end ML systems from model training to cloud deployment.
 End-to-end object detection pipeline trained on the Waymo Open Dataset.
 
 - **Best model:** YOLOv8m Ensemble Distilled — mAP@0.5 **0.866** at **4.8ms** inference
-- **6 experiments:** Baseline YOLOv8n → RF-DETR-L → Ensemble Distillation
+- **7 experiments:** Baseline YOLOv8n → RF-DETR-L → Ensemble Distillation
 - **Deployed:** Live REST API on Google Cloud Run · Ultralytics HUB demo
 - **Stack:** Python · YOLOv8 · RF-DETR · FastAPI · Docker · Google Cloud Run · GCS
 
